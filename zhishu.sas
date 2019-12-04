@@ -22,3 +22,7 @@ data end;
   if n=1 then output;
 run;
 
+
+data a;
+  a=1;
+run;
